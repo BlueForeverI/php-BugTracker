@@ -1,0 +1,48 @@
+body { 
+	background-color: #CCCC00;
+	color: #3300CC;
+	font-family: segoe ui, verdana, tahoma;
+	font-size: 15px;
+}
+
+a {
+	color: #660033;
+}
+
+#header {
+	padding: 20px;
+	background-color: #996600;
+}
+
+#header h1 {
+	text-align: center;
+	color: #99FF00;
+	font-size: 60px;
+	margin: 10px;
+}
+
+#navigation {
+	padding: 5px;
+	background: #CC6600;
+	margin-bottom: 20px;
+}
+
+#navigation ul {
+	list-style: none;
+	text-align: center;
+}
+
+#navigation ul li {
+	display: inline;
+	margin-right: 110px;
+}
+
+table {
+	border: 2px outset #000099;
+	margin: 10px;
+}
+
+td, th {
+	border: 2px inset #000099;
+	color: #000033;
+}
